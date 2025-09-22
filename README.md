@@ -1,9 +1,3 @@
-## Hi there, my name is Maquiavel Campos! 👋
-
-
-- 🔭 I’m a Software Engineering student
-- 🌱 I’m currently learning Python and C++
-- ⚡ I recently joined a competitive programming team at my university
 
 <h1 align="center">Olá 👋, sou Maquiavel Campos!</h1>
 <h3 align="center">Um estudande de Engenharia de Software</h3>
