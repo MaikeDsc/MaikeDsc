@@ -1,6 +1,6 @@
 
-<h1 align="center">Olá 👋, sou Maquiavel Campos!</h1>
-<h3 align="center">Um estudande de Engenharia de Software</h3>
+<h1 align="center">Prazer, sou Maquiavel Campos!</h1>
+<h3 align="center">Estudande de Engenharia de Software</h3>
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
